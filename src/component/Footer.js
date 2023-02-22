@@ -14,6 +14,7 @@ function Footer() {
                 >Name<sup>*</sup></label
               >
               <div class="col-sm-9">
+                <div></div>
                 <input
                   type="text"
                   class="form-control"
