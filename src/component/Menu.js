@@ -2,6 +2,7 @@
 function Menu(){
   return(
     <>
+    console.log('hello')
 <nav className="side-menu">
 <ul>
   <li className="hidden active">
