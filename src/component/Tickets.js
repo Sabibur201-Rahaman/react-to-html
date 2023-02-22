@@ -18,6 +18,7 @@ function Tickets() {
           <h3>Workshop Pass</h3>
           <p class="price">$199</p>
           <p>Entry pass for each workshop</p>
+          <p>Entry pass for each workshop</p>
           <a href="#" class="btn btn-lg btn-red"
             >Buy <small>(42 remaining)</small></a
           >

@@ -8,6 +8,7 @@ function Footer() {
           <h3 class="content-ct">
             <span class="ti-email"></span> Contact Form
           </h3>
+  console.log('hello')
           <form class="form-horizontal" data-toggle="validator" role="form">
             <div class="form-group">
               <label for="name" class="col-sm-3 control-label"
